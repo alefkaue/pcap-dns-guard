@@ -1,0 +1,20 @@
+PASS valid synthetic query
+PASS truncated global header
+PASS PCAPNG explicitly rejected
+PASS record length cannot exceed file
+PASS captured cannot exceed original
+PASS snaplen enforced
+PASS timestamp fractional bounds
+PASS unsupported link type
+PASS truncated Ethernet
+PASS IPv4 fragments are skipped
+PASS truncated capture remains incomplete
+PASS UDP length checked
+PASS pointer loop rejected
+PASS label truncation rejected
+PASS question count budget
+PASS non DNS UDP skipped
+PASS responses not counted as queries
+PASS every prefix is safely rejected or classified
+PASS single byte mutations remain bounded
+19/19 passed
