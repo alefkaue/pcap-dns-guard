@@ -1,5 +1,7 @@
 # PCAP DNS Guard
 
+**Portfolio area:** [Cybersecurity](https://github.com/alefkaue#cybersecurity) · **Context:** Personal project
+
 **C++ · offline defensive analysis · original personal portfolio project**
 
 Exercise bounded parsing of classic PCAP, Ethernet, IP, UDP and DNS question structures in offline captures.
